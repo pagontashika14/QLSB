@@ -168,6 +168,7 @@ namespace WebApplication
                             bang[i][j + 1]["id_phieu_dat"] = phieu.ID;
                             bang[i][j + 1]["gia"] = XemGia(id_khu_san,date,phieuChiTiet.DM_KHUNG_GIO.GIO_BAT_DAU);
                             //bang[i][j + 1]["gia"] = "";
+
                         }
                     }
                 }
@@ -211,6 +212,25 @@ namespace WebApplication
                     danhSach.Add(khuSan);
                 }
                 return danhSach;
+            }
+        }
+        public static void HuyToanBoSan(decimal id_phieu_dat)
+        {
+            using (var context = new DB_9EEDEC_QLSBEntities())
+            {
+                var phieu = context.GD_PHIEU_DAT_SAN.Where(s => s.ID == id_phieu_dat).First();
+                if(phieu != null)
+                {
+                    foreach (GD_PHIEU_DAT_SAN_CHI_TIET item in phieu.GD_PHIEU_DAT_SAN_CHI_TIET.ToList())
+                    {
+                        item.HUY_SAN = "Y";
+                    }
+                    context.SaveChanges();
+                }
+                else
+                {
+                    throw new Exception("Không có phiếu đặt cho sân này");
+                }
             }
         }
         #endregion

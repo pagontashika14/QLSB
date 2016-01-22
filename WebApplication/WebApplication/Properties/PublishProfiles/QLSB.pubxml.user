@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA7Y1sQx2laU6K2YRnFg6PBQAAAAACAAAAAAAQZgAAAAEAACAAAADFFEBvEjLJlY85UFndIdgDnFk6Nlv/qnTMF8CfGf5towAAAAAOgAAAAAIAACAAAABxVXZEu9RM0inNoMsCi+K8r4D7VKMk5kDis63tBRJ5giAAAADcRXO00C5VR3uFjrkS4AVl38xMfl+2X6G68sEfehud10AAAABlaDgt4xTGWyDKLazwyBJZkphpNVtISOqbDrj4aijYqGk24tSJME133nviRTQ2xXBtsrdMI+CWPILCqe61JqSx</EncryptedPassword>
+    <_PublishTargetUrl>ftp://www.pagontashika14.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>

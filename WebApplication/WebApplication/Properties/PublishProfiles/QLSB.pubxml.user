@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA7Y1sQx2laU6K2YRnFg6PBQAAAAACAAAAAAAQZgAAAAEAACAAAADFFEBvEjLJlY85UFndIdgDnFk6Nlv/qnTMF8CfGf5towAAAAAOgAAAAAIAACAAAABxVXZEu9RM0inNoMsCi+K8r4D7VKMk5kDis63tBRJ5giAAAADcRXO00C5VR3uFjrkS4AVl38xMfl+2X6G68sEfehud10AAAABlaDgt4xTGWyDKLazwyBJZkphpNVtISOqbDrj4aijYqGk24tSJME133nviRTQ2xXBtsrdMI+CWPILCqe61JqSx</EncryptedPassword>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIHaLq/amSE2EM6jTMaUjcgAAAAACAAAAAAAQZgAAAAEAACAAAADrdKdCc5Pqt/mmIoSlzvcWkK82PC66KgaAPUq+sCNhVgAAAAAOgAAAAAIAACAAAAD0473NWpmXNw5fI7ihwSaIkwu1bzJjpuaD1Ln7WAMI0iAAAABGlQIkqi8XvGkAZfxLwNKq3AczYAYE6/x3meAYtnjmPEAAAAAnZJuEDi4t94kje/h9VKlpQndMkSWteP1iFotUtvY0SU41GkH/k61/o0Jq7Jmrgdb/zH2FA88kHC4yWT2e9MCj</EncryptedPassword>
     <_PublishTargetUrl>ftp://www.pagontashika14.somee.com</_PublishTargetUrl>
   </PropertyGroup>
 </Project>

@@ -142,5 +142,21 @@ namespace WebApplication
                 TraKetQua(result);
             }
         }
+        [WebMethod]
+        [ScriptMethod(UseHttpGet = true, ResponseFormat = ResponseFormat.Json)]
+        public void HuyToanBoSan(decimal id_phieu_dat)
+        {
+            try
+            {
+                Function.HuyToanBoSan(id_phieu_dat);
+                var result = new KetQuaTraVe(false, "OK", null);
+                TraKetQua(result);
+            }
+            catch (Exception e)
+            {
+                var result = new KetQuaTraVe(false, e.Message, null);
+                TraKetQua(result); 
+            }
+        }
     }
 }

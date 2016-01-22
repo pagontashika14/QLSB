@@ -36,3 +36,41 @@ C:\Users\pagon\Desktop\dsadsad\WebApplication\WebApplication\obj\Release\WebAppl
 C:\Users\pagon\Desktop\dsadsad\WebApplication\WebApplication\obj\Release\WebApplication.csprojResolveAssemblyReference.cache
 C:\Users\pagon\Desktop\dsadsad\WebApplication\WebApplication\obj\Release\WebApplication.dll
 C:\Users\pagon\Desktop\dsadsad\WebApplication\WebApplication\obj\Release\WebApplication.pdb
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\ApplicationInsights.config
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\WebApplication.dll.config
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\EntityFramework.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.Threading.Tasks.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\System.IO.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\System.Runtime.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\System.Threading.Tasks.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\EntityFramework.xml
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.Threading.Tasks.xml
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\System.IO.xml
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\System.Runtime.xml
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\bin\System.Threading.Tasks.xml
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\obj\Release\WebApplication.csproj.App.config
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\obj\Release\WebApplication.csprojResolveAssemblyReference.cache
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\obj\Release\WebApplication.dll
+C:\Users\pagon\Desktop\Version 2 QLSB\WebApplication\WebApplication\obj\Release\WebApplication.pdb

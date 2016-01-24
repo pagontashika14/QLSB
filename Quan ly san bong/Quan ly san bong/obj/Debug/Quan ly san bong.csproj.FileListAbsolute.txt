@@ -1,0 +1,279 @@
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\Quan ly san bong.exe
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\Quan ly san bong.pdb
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Data.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Data.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\obj\Debug\Quan ly san bong.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\obj\Debug\Quan_ly_san_bong.f01_main_form.resources
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\obj\Debug\Quan_ly_san_bong.Properties.Resources.resources
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\obj\Debug\Quan ly san bong.csproj.GenerateResource.Cache
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\obj\Debug\Quan ly san bong.exe.licenses
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\obj\Debug\Quan ly san bong.exe
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\obj\Debug\Quan ly san bong.pdb
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraScheduler.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraWizard.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraScheduler.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraWizard.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraScheduler.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraScheduler.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraWizard.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraWizard.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraWizard.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraWizard.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\obj\Debug\Quan_ly_san_bong.fm02_grid_san.resources
+D:\Quan ly san bong\Quan ly san bong\obj\Debug\Quan ly san bong.exe
+D:\Quan ly san bong\Quan ly san bong\obj\Debug\Quan ly san bong.pdb
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\Quan ly san bong.exe
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\Quan ly san bong.pdb
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraScheduler.v15.1.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraWizard.v15.1.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\LibraryApi.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\RestSharp.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\Newtonsoft.Json.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\LibraryApi.pdb
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraScheduler.v15.1.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraScheduler.v15.1.Core.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraWizard.v15.1.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\RestSharp.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\Newtonsoft.Json.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraScheduler.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraScheduler.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraWizard.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraWizard.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraWizard.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraWizard.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\Quan ly san bong\Quan ly san bong\obj\Debug\Quan ly san bong.csprojResolveAssemblyReference.cache
+D:\Quan ly san bong\Quan ly san bong\obj\Debug\Quan_ly_san_bong.f01_main_form.resources
+D:\Quan ly san bong\Quan ly san bong\obj\Debug\Quan_ly_san_bong.fm02_grid_san.resources
+D:\Quan ly san bong\Quan ly san bong\obj\Debug\Quan_ly_san_bong.Properties.Resources.resources
+D:\Quan ly san bong\Quan ly san bong\obj\Debug\Quan ly san bong.csproj.GenerateResource.Cache
+D:\Quan ly san bong\Quan ly san bong\obj\Debug\Quan ly san bong.exe.licenses
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\LibraryApi.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\RestSharp.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\Newtonsoft.Json.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\LibraryApi.pdb
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\RestSharp.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\Newtonsoft.Json.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.DataAccess.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Spreadsheet.v15.1.Core.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraSpreadsheet.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Xpo.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.CodeParser.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.DataAccess.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Spreadsheet.v15.1.Core.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraSpreadsheet.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.Xpo.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraSpreadsheet.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraSpreadsheet.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraSpreadsheet.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraSpreadsheet.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\obj\Debug\Quan_ly_san_bong.fm03_phieu_dat_san.resources
+C:\Users\Son Pham\Desktop\QLSBversion2\Quan ly san bong\Quan ly san bong\obj\Debug\Quan ly san bong.exe
+C:\Users\Son Pham\Desktop\QLSBversion2\Quan ly san bong\Quan ly san bong\obj\Debug\Quan ly san bong.pdb

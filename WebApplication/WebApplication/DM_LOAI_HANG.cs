@@ -22,7 +22,7 @@ namespace WebApplication
     
         public decimal ID { get; set; }
         public decimal ID_KHU_SAN { get; set; }
-        public string GIO_BAT_DAU { get; set; }
+        public decimal GIO_BAT_DAU { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<DM_HANG_HOA> DM_HANG_HOA { get; set; }

@@ -14,7 +14,7 @@ namespace WebApplication
             DateTime ngay_da,
             string ten_khach_hang,
             string so_dien_thoai,
-            string gio_bat_dau,
+            decimal gio_bat_dau,
             decimal id_san,
             string dat_coc,
             string da_thanh_toan
@@ -102,7 +102,7 @@ namespace WebApplication
             List<DM_KHUNG_GIO> listEntity;
             using (var context = new DB_9EEDEC_QLSBEntities())
             {
-                listEntity = context.DM_KHUNG_GIO.ToList();
+                listEntity = context.DM_KHUNG_GIO.OrderBy(s => s.GIO_BAT_DAU).ToList();
 
                 foreach (DM_KHUNG_GIO item in listEntity)
                 {
@@ -139,9 +139,11 @@ namespace WebApplication
                         else
                         {
                             cell["id_san"] = dsSan[i].ID;
+                            decimal gioBatDau = dsKhungGio[j - 1].GIO_BAT_DAU;
+                            cell["gio_bat_dau"] = gioBatDau;
                             cell["ten_khach_hang"] = "";
                             cell["id_phieu_dat"] = "";
-                            cell["gia"] = XemGia(dsSan[i].ID_KHU_SAN, date, dsKhungGio[j-1].GIO_BAT_DAU);
+                            cell["gia"] = XemGia(dsSan[i].ID_KHU_SAN, date, gioBatDau);
                         }
                         san.Add(cell);
                     }
@@ -175,7 +177,7 @@ namespace WebApplication
                 return bang;
             }
         }
-        public static string XemGia(decimal idKhuSan, DateTime time, string gio)
+        public static string XemGia(decimal idKhuSan, DateTime time, decimal gio)
         {
             bool isT7Cn = time.DayOfWeek == DayOfWeek.Sunday || time.DayOfWeek == DayOfWeek.Saturday;
             string t7cn = isT7Cn ? "Y" : "N";
@@ -185,7 +187,7 @@ namespace WebApplication
                     .OrderBy(s => s.GIO_BAT_DAU).ToList();
                 foreach (var item in dsLoaiHang)
                 {
-                    if (int.Parse(gio) > int.Parse(item.GIO_BAT_DAU))
+                    if (gio > item.GIO_BAT_DAU)
                     {
                         var hang_hoa = item.DM_HANG_HOA
                             .Where(s => s.T7_CN == t7cn)
@@ -233,6 +235,28 @@ namespace WebApplication
                 }
             }
         }
+        public static object DangNhap(string taiKhoan, string matKhau)
+        {
+            using (var context = new DB_9EEDEC_QLSBEntities())
+            {
+                var password = md5(matKhau);
+                var user = context.DM_TAI_KHOAN
+                    .Where(s => s.TEN_TAI_KHOAN == taiKhoan && s.MAT_KHAU == password).First();
+                if (user != null)
+                {
+                    var data = new Dictionary<string, object>();
+                    data["id"] = user.ID;
+                    data["user_name"] = user.TEN_NGUOI_DUNG;
+                    data["so_dien_thoai"] = user.SO_DIEN_THOAI;
+
+                    return data;
+                }
+                else
+                {
+                    throw new Exception("Tài khoản hoặc mật khẩu không đúng");
+                }
+            }
+        }
         #endregion
         #region Private Method
         static bool coSanBong(decimal id)
@@ -260,6 +284,14 @@ namespace WebApplication
                 return false;
             }
             return true;
+        }
+        public static string md5(string data)
+        {
+            var md5Hasher = new System.Security.Cryptography.MD5CryptoServiceProvider();
+            byte[] hashedBytes;
+            var encoder = new System.Text.UTF8Encoding();
+            hashedBytes = md5Hasher.ComputeHash(encoder.GetBytes(data));
+            return BitConverter.ToString(hashedBytes).Replace("-", "").ToLower();
         }
         #endregion
     }

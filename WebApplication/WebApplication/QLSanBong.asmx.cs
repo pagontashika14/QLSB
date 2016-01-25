@@ -43,14 +43,14 @@ namespace WebApplication
             DateTime ngay_da,
             string ten_khach_hang,
             string so_dien_thoai,
-            string gio_bat_dau,
+            decimal gio_bat_dau,
             decimal id_san,
             string dat_coc,
             string da_thanh_toan)
         {
             try
             {
-                Function.DatSan(ma_phieu,ngay_dat, ngay_da,
+                Function.DatSan(ma_phieu, ngay_dat, ngay_da,
                     ten_khach_hang, so_dien_thoai,
                     gio_bat_dau, id_san, dat_coc, da_thanh_toan);
                 var result = new KetQuaTraVe(true, "Đặt sân thành công", null);
@@ -72,7 +72,7 @@ namespace WebApplication
                 var result = new KetQuaTraVe(true, "Thành công", data);
                 TraKetQua(result);
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 var result = new KetQuaTraVe(false, e.Message, null);
                 TraKetQua(result);
@@ -112,7 +112,7 @@ namespace WebApplication
         }
         [WebMethod]
         [ScriptMethod(UseHttpGet = true, ResponseFormat = ResponseFormat.Json)]
-        public void ChiTietKhuSan(decimal id_khu_san,DateTime ngay)
+        public void ChiTietKhuSan(decimal id_khu_san, DateTime ngay)
         {
             try
             {
@@ -149,13 +149,29 @@ namespace WebApplication
             try
             {
                 Function.HuyToanBoSan(id_phieu_dat);
-                var result = new KetQuaTraVe(false, "OK", null);
+                var result = new KetQuaTraVe(true, "OK", null);
                 TraKetQua(result);
             }
             catch (Exception e)
             {
                 var result = new KetQuaTraVe(false, e.Message, null);
-                TraKetQua(result); 
+                TraKetQua(result);
+            }
+        }
+        [WebMethod]
+        [ScriptMethod(UseHttpGet = true, ResponseFormat = ResponseFormat.Json)]
+        public void DangNhap(string user_name, string password)
+        {
+            try
+            {
+                var data = Function.DangNhap(user_name, password);
+                var result = new KetQuaTraVe(true, "Đăng nhập thành công", data);
+                TraKetQua(result);
+            }
+            catch (Exception e)
+            {
+                var result = new KetQuaTraVe(false, e.Message, null);
+                TraKetQua(result);
             }
         }
     }

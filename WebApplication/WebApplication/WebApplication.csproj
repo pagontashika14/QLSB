@@ -204,6 +204,12 @@
       <DependentUpon>QLSanBong.asmx</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="sp_helpdiagramdefinition_Result.cs">
+      <DependentUpon>ModelQLSB.tt</DependentUpon>
+    </Compile>
+    <Compile Include="sp_helpdiagrams_Result.cs">
+      <DependentUpon>ModelQLSB.tt</DependentUpon>
+    </Compile>
     <Compile Include="sysdiagram.cs">
       <DependentUpon>ModelQLSB.tt</DependentUpon>
     </Compile>

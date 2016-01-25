@@ -58,6 +58,8 @@
     <Reference Include="DevExpress.XtraSpreadsheet.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraTreeList.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.XtraWizard.v15.1, Version=15.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Windows" />
@@ -69,8 +71,10 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassStruct.cs" />
     <Compile Include="f01_main_form.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -89,11 +93,8 @@
     <Compile Include="fm03_phieu_dat_san.Designer.cs">
       <DependentUpon>fm03_phieu_dat_san.cs</DependentUpon>
     </Compile>
-    <Compile Include="KHU_SAN.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QUAN.cs" />
-    <Compile Include="SAN.cs" />
     <Compile Include="System Info.cs" />
     <Compile Include="Validation.cs" />
     <EmbeddedResource Include="f01_main_form.resx">
@@ -114,6 +115,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

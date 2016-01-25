@@ -1,0 +1,17 @@
+﻿<Window x:Class="wpfWindows.w01_dang_nhap"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfWindows"
+        mc:Ignorable="d"
+        Title="w01_dang_nhap" Height="436" Width="653.673">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Resource/312.png"/>
+        </Grid.Background>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="37" Margin="262,64,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="171" Background="{x:Null}"/>
+
+
+    </Grid>
+</Window>

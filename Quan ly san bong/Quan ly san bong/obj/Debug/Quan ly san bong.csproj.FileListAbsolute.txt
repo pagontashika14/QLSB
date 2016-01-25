@@ -277,3 +277,5 @@ D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\bin\Debug\ru\DevExp
 D:\WorkSpace\Visual Studio\Quan ly san bong\Quan ly san bong\obj\Debug\Quan_ly_san_bong.fm03_phieu_dat_san.resources
 C:\Users\Son Pham\Desktop\QLSBversion2\Quan ly san bong\Quan ly san bong\obj\Debug\Quan ly san bong.exe
 C:\Users\Son Pham\Desktop\QLSBversion2\Quan ly san bong\Quan ly san bong\obj\Debug\Quan ly san bong.pdb
+C:\Users\pagon\Desktop\Version 2 QLSB\Quan ly san bong\Quan ly san bong\obj\Debug\Quan ly san bong.exe
+C:\Users\pagon\Desktop\Version 2 QLSB\Quan ly san bong\Quan ly san bong\obj\Debug\Quan ly san bong.pdb

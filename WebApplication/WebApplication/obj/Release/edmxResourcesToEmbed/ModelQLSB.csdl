@@ -30,7 +30,7 @@
       <PropertyRef Name="ID" />
     </Key>
     <Property Name="ID" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
-    <Property Name="GIO_BAT_DAU" Type="String" MaxLength="4" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="GIO_BAT_DAU" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
     <NavigationProperty Name="GD_HOP_DONG_CHI_TIET" Relationship="Self.FK_GD_HOP_DONG_CHI_TIET_DM_KHUNG_GIO" FromRole="DM_KHUNG_GIO" ToRole="GD_HOP_DONG_CHI_TIET" />
     <NavigationProperty Name="GD_PHIEU_DAT_SAN_CHI_TIET" Relationship="Self.FK_GD_PHIEU_DAT_SAN_CHI_TIET_DM_KHUNG_GIO" FromRole="DM_KHUNG_GIO" ToRole="GD_PHIEU_DAT_SAN_CHI_TIET" />
   </EntityType>
@@ -40,7 +40,7 @@
     </Key>
     <Property Name="ID" Type="Decimal" Precision="18" Scale="0" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
     <Property Name="ID_KHU_SAN" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
-    <Property Name="GIO_BAT_DAU" Type="String" MaxLength="4" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="GIO_BAT_DAU" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
     <NavigationProperty Name="DM_HANG_HOA" Relationship="Self.FK_DM_HANG_HOA_DM_LOAI_HANG" FromRole="DM_LOAI_HANG" ToRole="DM_HANG_HOA" />
     <NavigationProperty Name="DM_KHU_SAN" Relationship="Self.FK_DM_LOAI_HANG_DM_KHU_SAN" FromRole="DM_LOAI_HANG" ToRole="DM_KHU_SAN" />
   </EntityType>
@@ -382,5 +382,46 @@
       <End Role="GD_PHIEU_DAT_SAN" EntitySet="GD_PHIEU_DAT_SAN" />
       <End Role="GD_PHIEU_DAT_SAN_CHI_TIET" EntitySet="GD_PHIEU_DAT_SAN_CHI_TIET" />
     </AssociationSet>
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(DB_9EEDEC_QLSBModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(DB_9EEDEC_QLSBModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
   </EntityContainer>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
 </Schema>

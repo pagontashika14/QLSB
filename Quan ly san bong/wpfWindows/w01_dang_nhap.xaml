@@ -10,8 +10,20 @@
         <Grid.Background>
             <ImageBrush ImageSource="Resource/312.png"/>
         </Grid.Background>
-        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="37" Margin="262,64,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="171" Background="{x:Null}"/>
-
-
+        <Grid HorizontalAlignment="Left" Height="28" Margin="200,149,0,0" VerticalAlignment="Top" Width="241">
+            <Grid.Background>
+                <ImageBrush ImageSource="Resource/textBox.png"/>
+            </Grid.Background>
+        </Grid>
+        <Label x:Name="label" Content="Tên đăng nhập:" HorizontalAlignment="Left" Margin="200,123,0,0" VerticalAlignment="Top" Width="105" Foreground="White"/>
+        <Label x:Name="label1" Content="Không có tài khoản?" HorizontalAlignment="Left" Margin="215,177,0,0" VerticalAlignment="Top" Width="183" Foreground="#FF41FF16"/>
+        <Grid HorizontalAlignment="Left" Height="28" Margin="200,227,0,0" VerticalAlignment="Top" Width="241">
+            <Grid.Background>
+                <ImageBrush ImageSource="Resource/textBox.png"/>
+            </Grid.Background>
+        </Grid>
+        <Label x:Name="label_Copy" Content="Mật khẩu:" HorizontalAlignment="Left" Margin="200,201,0,0" VerticalAlignment="Top" Width="105" Foreground="White"/>
+        <Label x:Name="label1_Copy" Content="Quên mật khẩu?" HorizontalAlignment="Left" Margin="215,255,0,0" VerticalAlignment="Top" Width="183" Foreground="#FF41FF16"/>
+        <Button x:Name="button" Content="Đăng nhập" HorizontalAlignment="Left" Margin="265,301,0,0" VerticalAlignment="Top" Width="114" Height="30"/>
     </Grid>
 </Window>

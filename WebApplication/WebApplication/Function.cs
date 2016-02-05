@@ -168,7 +168,7 @@ namespace WebApplication
                             }
                             bang[i][j + 1]["ten_khach_hang"] = phieu.TEN_KHACH_HANG;
                             bang[i][j + 1]["id_phieu_dat"] = phieu.ID;
-                            bang[i][j + 1]["gia"] = XemGia(id_khu_san,date,phieuChiTiet.DM_KHUNG_GIO.GIO_BAT_DAU);
+                            //bang[i][j + 1]["gia"] = XemGia(id_khu_san,date,phieuChiTiet.DM_KHUNG_GIO.GIO_BAT_DAU);
                             //bang[i][j + 1]["gia"] = "";
 
                         }
